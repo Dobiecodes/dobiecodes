@@ -8,7 +8,7 @@
 </div>
 
 About Me: 
-Hello there! I am Dobie, an aspiring Full Stack Developer from Las Vegas, NV currently enrolled in MIT xPro's coding bootcamp.
+Hello there! I am Dobie, I work as an Integration Specialist for a large pathology company and an aspiring Full Stack Developer from Las Vegas, NV currently enrolled in MIT xPro's coding bootcamp.
   
   - :airplane: I love to travel and go on adventures.
   - :woman_cook: I enjoy cooking and i'm a big foodie.
