@@ -13,4 +13,4 @@ Hello there! I am Dobie, I work as an Integration Specialist for a large patholo
   - :airplane: I love to travel and go on adventures.
   - :woman_cook: I enjoy cooking and i'm a big foodie.
   - :paw_prints: Dog mom.
-  
+  - 📫: DobieCodes@gmail.com
